@@ -3,15 +3,15 @@
 
 // IMPORTANTE: Cambiar estos valores por los de tu hosting Hostinger
 define('DB_HOST', 'localhost'); // Usualmente localhost en Hostinger
-define('DB_NAME', 'cotizador_impresion'); // Nombre de tu base de datos
-define('DB_USER', 'tu_usuario'); // Usuario de MySQL en Hostinger
-define('DB_PASS', 'tu_contraseña'); // Contraseña de MySQL en Hostinger
+define('DB_NAME', 'u196943154_coticlaude'); // Nombre de tu base de datos
+define('DB_USER', 'u196943154_juan'); // Usuario de MySQL en Hostinger
+define('DB_PASS', '6@9ZdKtckN6ACSi'); // Contraseña de MySQL en Hostinger
 define('DB_CHARSET', 'utf8mb4');
 
 // Configuración de la aplicación
-define('SITE_URL', 'https://tudominio.com'); // Tu dominio
+define('SITE_URL', 'https://pdp.com.co'); // Tu dominio
 define('SITE_NAME', 'Sistema de Cotización');
-define('EMPRESA_NOMBRE', 'Tu Empresa de Impresión');
+define('EMPRESA_NOMBRE', 'PdP Plotter Diseno y Publicidad');
 
 // Zona horaria
 date_default_timezone_set('America/Bogota');
